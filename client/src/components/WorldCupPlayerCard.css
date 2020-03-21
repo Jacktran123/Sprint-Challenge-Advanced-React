@@ -1,0 +1,24 @@
+.cardcontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin : 3rem;
+    
+}
+.card{
+    background:#2F2B4A;
+    color: white;
+    margin: 1.2rem;
+    width: 30%;
+    border : 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+img{
+    width: 90%;
+    
+}
+

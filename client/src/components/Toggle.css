@@ -1,0 +1,14 @@
+.purple-button{
+   width: 50px;
+   height: 50px;
+   background: linear-gradient(60deg, #3f2b96 50%, white);
+   border: 1px solid white;
+   border-radius: 50px;
+   margin: 0 auto;
+}
+
+.purple-button:hover{
+    transform: rotate(360deg) scale(1.5);
+    transition: 3s;
+    
+}
